@@ -5,13 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-karanpatel31105115@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanpatel31105115@gmail.com)](mailto:karanpatel31105115@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://kp5115.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- :house: Resides at: San Jose, CA, USA 
+- ⚡ Fun fact: The Ctrl-Z is better than a time machine.😄
+
 
 💻 Things I love
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+- Python :heart: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- FullStack Development ✍️
+- Data Science :heart_eyes:
 
 <!--
 **kp5115/kp5115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
