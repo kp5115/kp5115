@@ -1,4 +1,4 @@
-<img align="right" src="\" alt="Coder GIF" width="450" height="370">
+<img align="right" src="https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="450" height="370">
 
 ### Hi there, I am Karan Patel 👋
 [![Linkedin Badge](https://img.shields.io/badge/-karanpatel5115-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/karanpatel5115/)
