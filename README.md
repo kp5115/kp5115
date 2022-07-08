@@ -11,7 +11,7 @@
 
 💻 Things I love
 - Python :heart: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- FullStack Development ✍️
+- Backend Development ✍️
 - Data Science :heart_eyes:
 
 <!--
