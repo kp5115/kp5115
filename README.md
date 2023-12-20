@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-karanpatel5115-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/karanpatel5115/)
 [![Gmail Badge](https://img.shields.io/badge/-karanpatel31105115@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanpatel31105115@gmail.com)](mailto:karanpatel31105115@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://kp5115.github.io/)
 - :house: Resides at: San Jose, CA, USA 
 - ⚡ Fun fact: The Ctrl-Z is better than a time machine.😄
 
